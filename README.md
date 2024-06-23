@@ -6,9 +6,9 @@ This repository contains solutions to weekly assignment questions for the Compet
 
 The repository is organized into three folders, each corresponding to a week's assignments:
 
-- [Week 1](./Week1)
-- [Week 2](./Week2)
-- [Week 3](./Week3)
+- [Week 1](./week1)
+- [Week 2](./week2)
+- [Week 3](./week3)
 
 Each folder contains the solutions to the respective week's assignment questions.
 
@@ -37,4 +37,4 @@ Replace `X` with the week number and `ext` with the appropriate file extension f
 If you are looking for the solution to the first question of Week 1:
 
 ```plaintext
-Week1/w2_q1.cpp
+week1/w2_q1.cpp
