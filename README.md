@@ -25,7 +25,7 @@ Each week's folder is structured as follows:
   - `w3_q4.cpp`
   - ...
 
-Replace `X` with the week number and `ext` with the appropriate file extension for the programming language used.
+The first week's solutions' are written in java.
 
 ## How to Use
 
