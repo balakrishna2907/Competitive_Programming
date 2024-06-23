@@ -21,8 +21,8 @@ You can find the assignment questions [here](https://docs.google.com/document/d/
 Each week's folder is structured as follows:
 
 - `WeekX`
-  - `w2_q2.cpp`
-  - `w3_q4.cpp`
+  - `wx_q2.cpp`
+  - `wx_q4.cpp`
   - ...
 
 The first week's solutions' are written in java.
