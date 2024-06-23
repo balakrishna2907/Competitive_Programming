@@ -34,7 +34,7 @@ The first week's solutions' are written in java.
 
 ## Example
 
-If you are looking for the solution to the first question of Week 1:
+If you are looking for the solution to the first question of Week 2:
 
 ```plaintext
-week1/w2_q1.cpp
+week2/w2_q1.cpp
