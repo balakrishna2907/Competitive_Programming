@@ -9,12 +9,15 @@ The repository is organized into three folders, each corresponding to a week's a
 - [Week 1](./week1)
 - [Week 2](./week2)
 - [Week 3](./week3)
+- [Week 4](./week4)
+- [Week 5](./week5)
+- [Week 6](./week6)
 
 Each folder contains the solutions to the respective week's assignment questions.
 
 ## Assignment Questions
 
-You can find the assignment questions [here](https://docs.google.com/document/d/1X7L26gp8IyrlpFInEsCoxEl4EFfrrjFLP08OLgSh6ko/edit).
+You can find the assignment questions [here](https://github.com/sakshamrathi21/SOC-Conquering_Competitive_Programming).
 
 ## Folder Structure
 
